@@ -9,4 +9,4 @@
 //= require ./lib/swagger.js
 //= require ./swagger-ui.js
 //= require ./lib/highlight.7.3.pack.js
-
+//= require ./swagger-oauth.js
